@@ -8,5 +8,6 @@ void greet()
 }
 int main()
 {
+	// sugg on deez nuts
 	greet();
 }
