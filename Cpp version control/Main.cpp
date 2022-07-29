@@ -8,5 +8,6 @@ void greet()
 }
 int main()
 {
+	// wait dont suck nuts!!
 	greet();
 }
