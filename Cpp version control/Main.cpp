@@ -1,6 +1,12 @@
 #include <iostream>
-int main()
+
+void greet()
 {
 	// Print Some Text
 	std::cout << "Welcome!/n/n/n";
+
+}
+int main()
+{
+	greet();
 }
