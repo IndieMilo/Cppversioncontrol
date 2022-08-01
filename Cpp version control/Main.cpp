@@ -8,6 +8,7 @@ void greet()
 }
 int main()
 {
+	//penis
 	// wait dont suck nuts!!
 	greet();
 }
